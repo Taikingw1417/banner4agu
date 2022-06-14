@@ -1,2 +1,2 @@
-1 #!/bin/sh
-2 banner -w 30 AGU
+#!/bin/sh
+banner -w 30 AGU
